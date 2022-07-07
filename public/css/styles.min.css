@@ -4,4 +4,7 @@
     .compose button {
         font-size:xx-small;
     }
+    #location{
+        display: none;
+    }
 }
